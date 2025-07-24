@@ -1,5 +1,5 @@
 📚 Projeto de Consulta e Armazenamento de Livros
-Este projeto Java realiza consultas em uma API externa de livros, armazena os resultados em um banco de dados PostgreSQL e oferece diversas funcionalidades para visualização e filtragem dos dados obtidos.
+Este é um projeto acadêmico desenvolvido com o objetivo de praticar a integração com APIs externas e o uso de banco de dados em aplicações Java. A aplicação realiza consultas em uma API pública de livros, armazena os resultados em um banco de dados PostgreSQL e oferece diversas funcionalidades para visualização e filtragem dos dados obtidos.
 
 🔍 Funcionalidades
 Consulta de livros por título ou autor via API externa.
